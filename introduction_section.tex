@@ -1,0 +1,121 @@
+\chapter{Introduction}
+\section{Background}
+
+Regular Expressions (RegEx) have long served as a foundational tool in computer science for pattern recognition, string parsing, and information extraction. Their deterministic structure and mathematical precision make them effective for processing well-structured and static data patterns~\cite{friedl2006mastering}. However, in dynamic and semantically rich environments—such as natural language processing (NLP), log analysis, and adaptive data mining—RegEx increasingly demonstrates critical limitations~\cite{chiticariu2010systemt, cox2010regex}. These patterns tend to be brittle, require frequent manual updates, and often fail to generalize across diverse or evolving input structures~\cite{locascio2016neural, li2020neural}. Furthermore, the development and debugging of complex RegEx patterns typically demand substantial domain expertise, rendering them less accessible to non-technical users.
+
+\vspace{0.5cm}
+
+Recent advancements in Artificial Intelligence, particularly in the development of large language models (LLMs), have introduced capabilities that extend beyond the constraints of traditional symbolic methods. Retrieval-Augmented Generation (RAG)~\cite{lewis2020retrieval} exemplifies this progress by integrating neural generative models with retrieval mechanisms to enhance factual accuracy and contextual coherence. RAG enables systems to access and synthesize information from large external corpora during inference, combining this retrieved knowledge with generative reasoning to support sophisticated language understanding, multi-step reasoning, and complex task execution.
+
+\vspace{0.5cm}
+
+Alongside RAG, the emergence of \textit{Agentic AI} introduces a new layer of autonomy and decision-making into artificial intelligence systems. Agentic architectures are characterized by their ability to perform planning, select tools dynamically, utilize memory, and engage in iterative problem-solving~\cite{yao2022react, shinn2023reflexion, ferrag2025can}. These systems embody goal-directed behavior, rendering them particularly effective in tasks that demand adaptability, subtask coordination, and continuous interaction with evolving inputs. When applied to the domain of information extraction, agentic systems can autonomously select appropriate tools (e.g., search, classification, summarization, transformation) and orchestrate the application of RAG to extract patterns and execute actions in contextually aware and dynamically adaptive ways~\cite{wu2024agenttuning}.
+
+\vspace{0.5cm}
+
+Recent breakthroughs in agent-based reasoning systems have catalyzed the development of highly autonomous frameworks capable of managing complex workflows with minimal human intervention. Large Language Models (LLMs), including OpenAI’s GPT-4, Qwen2.5-Omni, DeepSeek-R1, and Meta’s LLaMA, have significantly advanced artificial intelligence by enabling sophisticated natural language understanding, contextual reasoning, and human-like interaction~\cite{openai2023gpt4, qwen2024omni, deepseek2024r1, touvron2023llama2}. These capabilities have been extended into multimodal domains, facilitating tasks such as text-to-image generation, video synthesis, and cross-lingual translation. However, the static nature of pre-training poses limitations, as it can result in outdated or inaccurate outputs. This issue is mitigated by the Retrieval-Augmented Generation (RAG) paradigm~\cite{lewis2020retrieval}, which augments generative models by retrieving up-to-date information from external sources such as APIs, databases, or the web during inference.
+
+\vspace{0.5cm}
+
+Building on the foundation established by Retrieval-Augmented Generation (RAG), agentic systems extend capabilities further by leveraging modular tools and orchestration protocols to exhibit reflective and adaptive behavior~\cite{ferrag2025can, wu2024agenttuning}. These systems are capable of generating hypotheses, planning execution sequences, interfacing with external tools, and collaborating with other agents in multi-agent environments. Such architectures have been successfully deployed across a range of domains, including research automation, clinical decision support, biomedical literature review, and scientific experiment design~\cite{litsearch2024, researcharena2025}. Notable frameworks such as \textit{LitSearch}, \textit{AgentTuning}, and \textit{ResearchArena} illustrate that LLM-empowered agents can match or even surpass human performance in specialized cognitive tasks. Nevertheless, these advancements underscore persistent challenges related to reproducibility, reliability, and safety, particularly when deployed in high-stakes or rapidly changing contexts.
+
+\vspace{0.5cm}
+
+Current agentic methodologies increasingly incorporate advanced strategies such as Monte Carlo Tree Search (MCTS)~\cite{chaslot2010monte, bax2020determinization, rimmel2009improvements}, Learn-by-Interact paradigms, and reinforcement learning techniques to enhance decision-making efficiency and optimize tool utilization~\cite{yao2023mcts, shinn2023reflexion}. Furthermore, multi-agent architectures introduce a division of cognitive labor, enabling domain-specialized agents to collaboratively address complex tasks that surpass the capabilities of any single language model. These systems emulate the collaborative structure of human teams by integrating complementary skill sets and facilitating structured knowledge exchange~\cite{park2023social, wu2024agenttuning}. Such collaborative intelligence extends the operational scope of agentic frameworks, particularly in domains that require distributed reasoning, parallel execution, and consensus-building.
+
+
+\vspace{0.5cm}
+
+
+By embedding reasoning, retrieval, action, and adaptation into a unified architecture, Agentic AI represents more than a mere enhancement over traditional large language models (LLMs); it constitutes a foundational shift in how intelligent systems perceive, plan, and act~\cite{ferrag2025can, shinn2023reflexion}. As explored in this thesis, integrating these capabilities into the traditionally rigid domain of pattern matching enables the development of a new class of interpretable, dynamic, and context-aware extractive frameworks.
+
+\vspace{0.5cm}
+
+Historically, Regular Expressions (RegEx) have served as a cornerstone in pattern recognition, string parsing, and information extraction. Their deterministic nature and mathematical precision make them well-suited for static, well-structured data. However, in dynamic and semantically complex environments—such as natural language processing (NLP), system log analysis, and adaptive data mining—RegEx becomes increasingly inadequate. These symbolic patterns tend to be brittle, necessitate frequent manual revision, and often fail to generalize across diverse or noisy inputs. Furthermore, the construction and debugging of sophisticated RegEx patterns require considerable domain expertise, limiting accessibility for non-technical users and constraining their applicability in real-world scenarios.
+
+\vspace{0.5cm}
+
+Recent advancements in Artificial Intelligence, particularly in the domain of large language models (LLMs), have introduced capabilities that extend well beyond traditional symbolic approaches~\cite{lewis2020rag}. Among these innovations, Retrieval-Augmented Generation (RAG) stands out as a paradigm that integrates neural generative models with retrieval mechanisms to enhance both factual accuracy and contextual relevance. By dynamically accessing large-scale external corpora at inference time, RAG enables systems to synthesize retrieved information with generative reasoning, resulting in more informed, coherent, and context-sensitive outputs. This architecture significantly augments the natural language understanding and execution capabilities of LLMs, making them more suitable for complex, real-world applications.
+
+\vspace{0.5cm}
+
+In parallel with the development of Retrieval-Augmented Generation (RAG), the emergence of Agentic AI has introduced autonomy and high-level decision-making into artificial intelligence systems~\cite{shinn2023reflexion, wu2024agenttuning}. Agentic systems are characterized by their ability to plan, select tools, utilize memory, and iteratively solve problems. These systems exhibit goal-directed behavior, enabling them to adapt to dynamic environments, decompose complex tasks into manageable subtasks, and interact continuously with evolving inputs.
+
+\vspace{0.5cm}
+
+When applied to the domain of information extraction, agentic architectures offer a flexible and context-sensitive alternative to rigid rule-based approaches. Such agents can autonomously select and orchestrate a suite of tools—including search engines, classifiers, summarizers, and data transformation utilities—based on the task at hand. By integrating these capabilities with RAG, agentic systems are able to perform pattern extraction and downstream tasks in a contextually informed and adaptive manner, thereby significantly enhancing their utility in real-world applications.
+
+\vspace{0.5cm}
+
+\section{Motivation}
+
+The central motivation of this thesis is to address the limitations inherent in static, rule-based pattern matching systems and to propose a robust, adaptive alternative grounded in contemporary AI paradigms. Traditional Regular Expressions (RegEx), while effective in processing well-structured data, exhibit fundamental shortcomings in interpreting user intent, adapting to structural variability, and handling noisy or ambiguous input. In practical scenarios—such as parsing unstructured log files, extracting data from heterogeneous HTML sources, or interpreting natural language commands—RegEx-based systems frequently fail unless meticulously engineered for each specific context.
+
+\vspace{0.5cm}
+
+By contrast, Retrieval-Augmented Generation (RAG) introduces semantic flexibility by leveraging contextually relevant external information during inference~\cite{lewis2020rag}, enabling pattern interpretation that aligns with real-world variability. Complementing this, Agentic AI empowers systems with autonomous reasoning capabilities, including intelligent tool selection, dynamic task planning, and iterative problem-solving~\cite{shinn2023reflexion, wu2024agenttuning}. The convergence of RAG and Agentic AI thus offers a compelling pathway toward building intelligent, learning-based systems that not only replicate but substantially surpass the functionality of RegEx in terms of adaptability, robustness, and usability.
+
+\vspace{0.5cm}
+
+This research is driven by the potential to address key limitations of traditional pattern matching systems through the following objectives:
+
+\begin{itemize}
+    \item \textbf{Democratization of pattern matching:} Enable non-technical users to define and apply extraction rules using natural language inputs, thereby lowering the barrier to entry for advanced text processing.
+    
+    \item \textbf{Automated adaptability:} Facilitate dynamic adaptation of extractive logic in response to evolving data formats, reducing reliance on manual rule updates.
+    
+    \item \textbf{Improved interpretability:} Enhance the transparency and explainability of the pattern generation process, promoting user trust and model accountability.
+    
+    \item \textbf{Reduced maintenance overhead:} Minimize the need for continuous manual intervention in systems reliant on complex and brittle text processing pipelines.
+\end{itemize}
+
+
+\section{Research Objectives}
+
+
+This thesis proposes the design, implementation, and evaluation of a novel framework that replaces traditional Regular Expressions (RegEx) in pattern matching tasks with a hybrid architecture that integrates Retrieval-Augmented Generation (RAG) and Agentic AI. The research is guided by the following specific objectives:
+
+\begin{enumerate}
+    \item To conceptualize a system capable of interpreting natural language instructions and translating them into executable logic for structured and unstructured data extraction.
+    
+    \item To develop an agent-based architecture that autonomously determines the optimal sequence and application of tools (e.g., information retrieval, summarization, syntactic parsing) based on the task context.
+    
+    \item To empirically evaluate the performance of the proposed framework in comparison with traditional RegEx-based approaches across a range of real-world text processing scenarios.
+    
+    \item To assess the system’s adaptability, generalization capability, and robustness in handling semi-structured and noisy input data.
+\end{enumerate}
+
+
+
+\section{Research Questions}
+
+To guide the investigation and evaluation of the proposed framework, this thesis is structured around the following research questions:
+
+\begin{enumerate}
+    \item Can a RAG and Agentic AI-based system outperform traditional Regular Expressions (RegEx) in terms of adaptability and accuracy for complex pattern extraction tasks?
+
+    \item How does agent autonomy—specifically in tool selection, planning, and execution—contribute to the overall effectiveness of text extraction?
+
+    \item What are the limitations of such a system in terms of computational resource demands, interpretability, and error handling?
+
+    \item To what extent can the proposed framework generalize across domains such as, legal documentation, and security data extraction?
+\end{enumerate}
+
+\vspace{1em}
+
+This chapter has established the foundational context for the remainder of the thesis, detailing both the technical challenges and conceptual motivations underlying the proposed research. By transitioning from rigid, rule-based pattern-matching methods to intelligent, dynamic systems, this work aims to advance the frontier of AI-assisted information extraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

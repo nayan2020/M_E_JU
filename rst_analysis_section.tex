@@ -1,0 +1,80 @@
+\chapter{Result Analysis}
+
+
+\section{Objectives}
+The primary objectives of this study are to demonstrate that the proposed Retrieval-Augmented Generation (RAG) combined with Agentic Artificial Intelligence (AI) framework:
+
+\begin{itemize}
+    \item Outperforms traditional regular expressions in terms of adaptability, accuracy, and robustness across diverse input formats.
+    \item Effectively manages real-world data extraction tasks with minimal requirement for manual intervention.
+    \item Reduces the maintenance overhead and complexity typically associated with conventional regular expression systems.
+\end{itemize}
+
+
+\section{Experiment Setup}
+
+\subsection{Dataset}
+The extracted data was initially in HTML format, retrieved from the current user interface element. To enable a more structured evaluation and facilitate downstream information extraction, the data was subsequently parsed into JSON format. This transformation enhances data accessibility, improves interoperability, and ensures a more systematic approach to processing and analysis. 
+
+
+\subsection{Comparison Baselines}
+The proposed system was benchmarked against the following baseline approaches:
+\begin{itemize}
+    \item A traditional regex-based method.
+    \item A large language model (LLM)-only approach without retrieval augmentation.
+\end{itemize}
+
+\subsection{Evaluation Metrics}
+System performance was evaluated using the following metrics:
+\begin{itemize}
+    \item \textbf{Accuracy}: The proportion of correctly extracted patterns, measured by exact matches or semantic equivalence.
+    \item \textbf{Flexibility}: The number of distinct input formats handled effectively without requiring system reconfiguration.
+    \item \textbf{Latency}: The average time required to process individual tasks.
+    \item \textbf{Robustness}: The system's ability to maintain performance under noisy or ambiguous user instructions.
+\end{itemize}
+
+
+
+\section{Qualitative Results}
+
+\paragraph{Case Study 1: Extracting  Numbers from Free-Text}
+
+\begin{itemize}
+    \item The regex-based approach failed to accurately extract phone numbers due to significant variations in formatting, such as the presence of dashes and spaces.
+    \item The large language model (LLM)-only method produced irrelevant numeric outputs, lacking the necessary grounding to disambiguate the task.
+    \item In contrast, the Retrieval-Augmented Generation (RAG) combined with Agentic AI approach successfully retrieved relevant examples, corrected mismatches, and generated context-aware extraction results.
+\end{itemize}
+
+
+\paragraph{Case Study 2: Parsing Nested JSON Logs}
+
+\begin{itemize}
+    \item The regex-based method necessitated extensive manual adjustments to accommodate the complexity of nested JSON structures.
+    \item The Retrieval-Augmented Generation (RAG) combined with Agentic AI approach leveraged memory and multi-hop retrieval capabilities to dynamically adapt to the data format, reducing the need for manual intervention.
+\end{itemize}
+
+
+
+\begin{table}[ht]
+\centering
+\caption{Extraction Performance Comparison: Regex vs. RAG + Agentic AI}
+\begin{tabular}{|p{4cm}|p{3cm}|p{3cm}|p{3cm}|}
+\hline
+\textbf{Input Example} & \textbf{Expected Output} & \textbf{Regex Output} & \textbf{RAG + Agentic AI Output} \\ \hline
+Change the block(1) height is 175 c.m. & 175 & None & 175 \\ \hline
+\{``data'': \{``id'': 42, ``color'': ``red''\}\} & 42 & Error & 42 \\ \hline
+\end{tabular}
+\label{tab:extraction_comparison}
+\end{table}
+
+\noindent
+Table~\ref{tab:extraction_comparison} illustrates that the RAG + Agentic AI approach consistently produces accurate and context-aware outputs, even for complex or irregular input formats, whereas regex-based methods often fail or require extensive manual tuning.
+
+
+
+
+
+
+
+
+

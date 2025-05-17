@@ -1,0 +1,127 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\citation{lewis2020rag}
+\citation{zhang2024survey}
+\citation{ft2024agents}
+\citation{chen2024ext2gen}
+\citation{kabir2024hybridrag}
+\citation{ft2024agents}
+\citation{lewis2020retrieval}
+\citation{lewis2020retrieval}
+\citation{lewis2020retrieval}
+\citation{kabir2024hybridrag}
+\citation{chen2024ext2gen}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Methodology}{25}{chapter.3}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Core System Architecture}{25}{section.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Core Components of RAG}{25}{section.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces  \textbf  {Agentic RAG Framework and Taxonomy.} This figure presents the integration of Retrieval-Augmented Generation (RAG) with agentic planning. The architecture highlights the interaction between the retrieval, augmentation, and generation modules, coordinated by an agentic controller that enables dynamic tool selection, memory utilization, and reflective reasoning for robust information extraction. }}{26}{figure.3.1}\protected@file@percent }
+\newlabel{fig:agentic_rag_architecture}{{3.1}{26}{\textbf {Agentic RAG Framework and Taxonomy.} This figure presents the integration of Retrieval-Augmented Generation (RAG) with agentic planning. The architecture highlights the interaction between the retrieval, augmentation, and generation modules, coordinated by an agentic controller that enables dynamic tool selection, memory utilization, and reflective reasoning for robust information extraction}{figure.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces  \textbf  {Architecture of the Retrieval-Augmented Generation (RAG) System.} The diagram illustrates the three core components: (1) \emph  {Retrieval}, which queries external knowledge sources using dense vector search and transformer-based models; (2) \emph  {Augmentation}, which processes and filters retrieved data to maximize contextual relevance; and (3) \emph  {Generation}, where the LLM synthesizes responses by integrating retrieved knowledge with its internal representations. This modular pipeline enables dynamic, context-aware information extraction and response generation. }}{26}{figure.3.2}\protected@file@percent }
+\newlabel{fig:rag_architecture}{{3.2}{26}{\textbf {Architecture of the Retrieval-Augmented Generation (RAG) System.} The diagram illustrates the three core components: (1) \emph {Retrieval}, which queries external knowledge sources using dense vector search and transformer-based models; (2) \emph {Augmentation}, which processes and filters retrieved data to maximize contextual relevance; and (3) \emph {Generation}, where the LLM synthesizes responses by integrating retrieved knowledge with its internal representations. This modular pipeline enables dynamic, context-aware information extraction and response generation}{figure.3.2}{}}
+\citation{lewis2020retrieval}
+\citation{gao2024retrievalaugmented}
+\citation{lewis2020retrieval}
+\citation{karpukhin2020dense}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Evolution of RAG Paradigms}{27}{section.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Naïve RAG}{27}{subsection.3.3.1}\protected@file@percent }
+\citation{gao2024retrievalaugmented}
+\citation{lewis2020retrieval}
+\citation{shi2023replug}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces  \textbf  {Naïve RAG Architecture.} This diagram depicts the foundational retrieve-read workflow of Naïve RAG systems. Keyword-based retrieval methods, such as TF-IDF and BM25, are used to extract relevant documents from static datasets. The retrieved content is directly passed to the language model, which integrates this information to generate contextually enhanced responses. While effective for basic information augmentation, this architecture lacks dynamic adaptation and advanced reasoning capabilities found in more modern RAG paradigms. }}{28}{figure.3.3}\protected@file@percent }
+\newlabel{fig:naive_rag_architecture}{{3.3}{28}{\textbf {Naïve RAG Architecture.} This diagram depicts the foundational retrieve-read workflow of Naïve RAG systems. Keyword-based retrieval methods, such as TF-IDF and BM25, are used to extract relevant documents from static datasets. The retrieved content is directly passed to the language model, which integrates this information to generate contextually enhanced responses. While effective for basic information augmentation, this architecture lacks dynamic adaptation and advanced reasoning capabilities found in more modern RAG paradigms}{figure.3.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Advanced RAG }{28}{subsection.3.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.3}Modular RAG }{28}{subsection.3.3.3}\protected@file@percent }
+\citation{karpukhin2020dense}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces  \textbf  {Advanced RAG Architecture.} The figure showcases the enhanced workflow of Advanced RAG systems, which leverage dense retrieval models (e.g., Dense Passage Retrieval) and neural ranking to achieve semantic, context-aware document selection. Unlike Naïve RAG, this architecture supports iterative reasoning, multi-hop retrieval, and dynamic integration of retrieved knowledge, resulting in more accurate, coherent, and informative responses for complex information extraction tasks. }}{29}{figure.3.4}\protected@file@percent }
+\newlabel{fig:advanced_rag_pipeline}{{3.4}{29}{\textbf {Advanced RAG Architecture.} The figure showcases the enhanced workflow of Advanced RAG systems, which leverage dense retrieval models (e.g., Dense Passage Retrieval) and neural ranking to achieve semantic, context-aware document selection. Unlike Naïve RAG, this architecture supports iterative reasoning, multi-hop retrieval, and dynamic integration of retrieved knowledge, resulting in more accurate, coherent, and informative responses for complex information extraction tasks}{figure.3.4}{}}
+\citation{yao2023graphrag}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces  \textbf  {Modular RAG Architecture.} This figure depicts the modular design of Modular RAG systems, where the retrieval and generation pipeline is decomposed into interoperable, reusable modules. The architecture supports hybrid retrieval (combining dense and sparse methods), composable reasoning chains, and plug-and-play integration of external tools or APIs. Such modularity enables rapid adaptation to new domains, fine-grained control over information flow, and transparent debugging and evaluation of individual components, thereby enhancing scalability, maintainability, and extensibility. }}{30}{figure.3.5}\protected@file@percent }
+\newlabel{fig:modular_rag_architecture}{{3.5}{30}{\textbf {Modular RAG Architecture.} This figure depicts the modular design of Modular RAG systems, where the retrieval and generation pipeline is decomposed into interoperable, reusable modules. The architecture supports hybrid retrieval (combining dense and sparse methods), composable reasoning chains, and plug-and-play integration of external tools or APIs. Such modularity enables rapid adaptation to new domains, fine-grained control over information flow, and transparent debugging and evaluation of individual components, thereby enhancing scalability, maintainability, and extensibility}{figure.3.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.4}Graph RAG}{30}{subsection.3.3.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces  \textbf  {Graph RAG Architecture.} This figure presents the architecture of Graph RAG systems, which integrate graph-based data structures to enable advanced multi-hop reasoning and richer contextual augmentation. By explicitly modeling relationships, entities, and hierarchies within a knowledge graph, Graph RAG systems can traverse complex information pathways, supporting more nuanced and accurate generative outputs. This approach is particularly effective for domains requiring relational understanding, such as scientific literature analysis, biomedical research, and knowledge-intensive question answering. }}{31}{figure.3.6}\protected@file@percent }
+\newlabel{fig:graphrag}{{3.6}{31}{\textbf {Graph RAG Architecture.} This figure presents the architecture of Graph RAG systems, which integrate graph-based data structures to enable advanced multi-hop reasoning and richer contextual augmentation. By explicitly modeling relationships, entities, and hierarchies within a knowledge graph, Graph RAG systems can traverse complex information pathways, supporting more nuanced and accurate generative outputs. This approach is particularly effective for domains requiring relational understanding, such as scientific literature analysis, biomedical research, and knowledge-intensive question answering}{figure.3.6}{}}
+\citation{yao2023graphrag}
+\citation{ferrag2025can}
+\citation{ferrag2025can}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.5}Agentic RAG}{32}{subsection.3.3.5}\protected@file@percent }
+\citation{ferrag2025can}
+\citation{aws2024reflex}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces  \textbf  {Agentic RAG Architecture.} The diagram showcases the Agentic RAG system, where autonomous agents orchestrate the retrieval, augmentation, and generation modules through dynamic decision-making and workflow optimization. Unlike static RAG pipelines, the agentic controller enables iterative refinement, adaptive tool selection, and multi-step reasoning, allowing the system to respond flexibly to complex, real-time, and multi-domain queries. This architecture supports reflective reasoning, memory utilization, and continuous adaptation, making it highly effective for advanced information extraction and tool orchestration scenarios. }}{33}{figure.3.7}\protected@file@percent }
+\newlabel{fig:agentic_rag}{{3.7}{33}{\textbf {Agentic RAG Architecture.} The diagram showcases the Agentic RAG system, where autonomous agents orchestrate the retrieval, augmentation, and generation modules through dynamic decision-making and workflow optimization. Unlike static RAG pipelines, the agentic controller enables iterative refinement, adaptive tool selection, and multi-step reasoning, allowing the system to respond flexibly to complex, real-time, and multi-domain queries. This architecture supports reflective reasoning, memory utilization, and continuous adaptation, making it highly effective for advanced information extraction and tool orchestration scenarios}{figure.3.7}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Agent Framework}{33}{section.3.4}\protected@file@percent }
+\citation{russell2010aima}
+\citation{aws2024goalagents}
+\citation{aws2024utilityagents}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.1}Simple Reflex Agents}{34}{subsection.3.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.2}Model-Based Reflex Agents}{34}{subsection.3.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.3}Goal-Based Agents}{34}{subsection.3.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.4}Utility-Based Agents}{34}{subsection.3.4.4}\protected@file@percent }
+\citation{aws2024learningagents}
+\citation{aws2024hierarchicalagents}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.5}Learning Agents}{35}{subsection.3.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.6}Hierarchical Agents}{35}{subsection.3.4.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.7}Specialized Agent Types}{35}{subsection.3.4.7}\protected@file@percent }
+\citation{AWS2024}
+\citation{IBM2024}
+\citation{russell2010aima}
+\citation{AWS2024}
+\citation{IBM2024}
+\citation{johnson2019billion}
+\citation{openai2023gpt4}
+\citation{mistral2023}
+\citation{google2024gemini}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.8}LLM-based Agents and Agentic AI}{36}{subsection.3.4.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.9}Evolving Typology of AI Agents}{36}{subsection.3.4.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Tooling and Dataset}{36}{section.3.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Retrievers}{36}{subsection.3.5.1}\protected@file@percent }
+\citation{langgraph2024}
+\citation{chen2023toolformer}
+\citation{Lewis2020RetrievalAugmentedGeneration}
+\citation{Karpukhin2020DensePassageRetrieval}
+\citation{Roberts2020BARTDenoising}
+\citation{Lewis2020RetrievalAugmentedGeneration}
+\citation{Karpukhin2020DensePassageRetrieval}
+\citation{Lewis2020RetrievalAugmentedGeneration}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Large Language Models (LLMs)}{37}{subsection.3.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.3}Agent Frameworks}{37}{subsection.3.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.4}Corpus}{37}{subsection.3.5.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}Evaluation Metrics}{37}{section.3.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.1}Accuracy}{37}{subsection.3.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.2}Flexibility}{37}{subsection.3.6.2}\protected@file@percent }
+\citation{Jia2017AdversarialExamples}
+\citation{Lewis2020RetrievalAugmentedGeneration}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.3}Latency}{38}{subsection.3.6.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.4}Robustness}{38}{subsection.3.6.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.5}Comparative and Ablation Studies}{38}{subsection.3.6.5}\protected@file@percent }
+\@setckpt{methodology_section}{
+\setcounter{page}{39}
+\setcounter{equation}{0}
+\setcounter{enumi}{4}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{3}
+\setcounter{section}{6}
+\setcounter{subsection}{5}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{7}
+\setcounter{table}{0}
+\setcounter{parentequation}{0}
+\setcounter{lstnumber}{1}
+\setcounter{section@level}{0}
+\setcounter{Item}{8}
+\setcounter{Hfootnote}{0}
+\setcounter{bookmark@seq@number}{37}
+\setcounter{DefaultLines}{2}
+\setcounter{DefaultDepth}{0}
+\setcounter{L@lines}{0}
+\setcounter{L@depth}{0}
+\setcounter{lstlisting}{0}
+}

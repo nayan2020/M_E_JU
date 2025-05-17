@@ -1,0 +1,70 @@
+\chapter{Conclusion and Future Work}
+\section{Conclusion}
+
+% \lettrine[lines=2, lhang=0.1, loversize=0.1]{T}
+{\Large This} thesis has introduced a novel framework that supplants traditional Regular Expressions (Regex) with a Retrieval-Augmented Generation (RAG) and Agentic Artificial Intelligence (AI)-based system, designed to enable intelligent and dynamic information extraction. The motivation for this work arose from the intrinsic limitations of Regex, including its rigidity, lack of contextual comprehension, and limited adaptability to noisy or semi-structured data.
+
+By integrating the semantic flexibility of large language models with the real-time grounding capabilities of Retrieval-Augmented Generation (RAG) and the autonomy provided by agent-based orchestration, the proposed system demonstrates several key advantages:
+
+\begin{itemize}
+    \item Enhanced accuracy in pattern recognition tasks across diverse data formats, including HTML, JSON, and free text.
+    \item Increased flexibility to adapt to evolving data structures without necessitating manual reconfiguration.
+    \item Improved robustness in managing ambiguous, incomplete, or noisy input data.
+    \item Natural language accessibility, allowing non-technical users to issue pattern extraction commands effectively.
+\end{itemize}
+
+Experimental evaluations against regex-only and LLM-only baselines confirmed that the Agentic RAG framework achieves superior performance in both structured and unstructured environments. Moreover, the system advances interpretability through its multi-step reasoning and modular workflow design, thereby laying the foundation for next-generation intelligent information extraction systems.
+
+
+\section{Future Work}
+
+Although the current system demonstrates promising capabilities, there remain several opportunities for enhancement and extension. Future research may build upon this work in the following directions:
+
+\paragraph{Automated Feedback Loop:}
+Future iterations of the system could incorporate a fully autonomous reflection and learning mechanism, leveraging reinforcement learning or structured human-in-the-loop feedback. Such mechanisms would enable the system to iteratively refine its tool selection, planning strategies, and execution policies based on prior successes and failures, thereby enhancing autonomy and long-term adaptability.
+
+
+\paragraph{Domain-Specific Extensions:}
+Future research can focus on fine-tuning retrievers and agent modules for specific vertical domains, such as rule-base agent, financial agent, or legal documents—poses. A key direction involves:
+
+\begin{itemize}
+    \item \textbf{Rule-based selection:} Automatically extracting relevant rules or constraints from standardized documents (e.g., regulatory files, schema definitions).
+    \item \textbf{User query enhancement:} Improving the clarity and completeness of user input by reformulating or enriching the query using domain-specific knowledge.
+\end{itemize}
+
+These extensions would enable more accurate and context-sensitive extractions, particularly in domains where formal structure and regulatory compliance are essential.
+
+
+
+\paragraph{Multi-Agent Collaboration:}
+An important future direction involves extending the system architecture to support multi-agent collaboration. In this approach, specialized agents—such as a parser agent, validator agent, and schema-aware agent—would coordinate to handle complex tasks, with each agent contributing domain-specific capabilities. This design mirrors human team-based workflows, allowing for more modular, scalable, and context-aware execution of pattern extraction pipelines.
+
+
+
+\paragraph{Explainability and Trust:}
+To enhance transparency and user confidence, future work should focus on integrating explainability modules capable of justifying system decisions. This includes:
+
+\begin{itemize}
+    \item Generating human-interpretable explanations for why specific tools or extraction strategies were selected.
+    \item Developing user-facing dashboards that visualize intermediate steps, reasoning paths, and confidence scores associated with each output.
+\end{itemize}
+
+Such features are essential for fostering trust, particularly in domains where auditability and decision traceability are critical.
+
+
+\paragraph{Cloud Deployment:}
+The current implementation operates on a local development environment. For broader accessibility, scalability, and integration into real-world pipelines, future iterations should transition to a cloud-based architecture. Cloud deployment would support distributed execution, enable real-time responsiveness, and facilitate integration with external APIs and data sources across various domains.
+
+
+
+\paragraph{Optimization and Efficiency:}
+Future work should explore more computationally efficient agentic frameworks and the integration of lightweight language models—such as Mistral or Phi-3—to enable deployment in edge environments or low-resource scenarios. These optimizations would reduce latency, energy consumption, and cost, thereby broadening the applicability of the system beyond high-performance computing infrastructures.
+
+
+\vspace{1.5cm}
+\noindent
+By continuing to advance this line of research, the proposed system holds the potential to redefine how humans interact with information at scale—shifting away from brittle, rule-based extraction methods toward a future characterized by intelligent, autonomous pattern understanding.
+
+
+
+
