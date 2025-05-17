@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.14)  18 MAY 2025 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.14)  18 MAY 2025 00:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -533,120 +533,15 @@ Overfull \hbox (11.63388pt too wide) in paragraph at lines 6--6
  (introduction_section.tex
 Chapter 1.
 
-LaTeX Warning: Citation `friedl2006mastering' on page 12 undefined on input line 4.
-
-
-LaTeX Warning: Citation `chiticariu2010systemt' on page 12 undefined on input line 4.
-
-
-LaTeX Warning: Citation `cox2010regex' on page 12 undefined on input line 4.
-
-
-LaTeX Warning: Citation `locascio2016neural' on page 12 undefined on input line 4.
-
-
-LaTeX Warning: Citation `li2020neural' on page 12 undefined on input line 4.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 12 undefined on input line 8.
-
-
-LaTeX Warning: Citation `yao2022react' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Citation `shinn2023reflexion' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Citation `wu2024agenttuning' on page 12 undefined on input line 12.
-
-
 
 [12
 
 
 ]
 
-LaTeX Warning: Citation `openai2023gpt4' on page 13 undefined on input line 16.
-
-
-LaTeX Warning: Citation `qwen2024omni' on page 13 undefined on input line 16.
-
-
-LaTeX Warning: Citation `deepseek2024r1' on page 13 undefined on input line 16.
-
-
-LaTeX Warning: Citation `touvron2023llama2' on page 13 undefined on input line 16.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 13 undefined on input line 16.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 13 undefined on input line 20.
-
-
-LaTeX Warning: Citation `wu2024agenttuning' on page 13 undefined on input line 20.
-
-
-LaTeX Warning: Citation `litsearch2024' on page 13 undefined on input line 20.
-
-
-LaTeX Warning: Citation `researcharena2025' on page 13 undefined on input line 20.
-
-
-LaTeX Warning: Citation `chaslot2010monte' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `bax2020determinization' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `rimmel2009improvements' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `yao2023mcts' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `shinn2023reflexion' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `park2023social' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `wu2024agenttuning' on page 13 undefined on input line 24.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 13 undefined on input line 30.
-
-
-LaTeX Warning: Citation `shinn2023reflexion' on page 13 undefined on input line 30.
-
-
-
 [13]
 
-LaTeX Warning: Citation `lewis2020rag' on page 14 undefined on input line 38.
-
-
-LaTeX Warning: Citation `shinn2023reflexion' on page 14 undefined on input line 42.
-
-
-LaTeX Warning: Citation `wu2024agenttuning' on page 14 undefined on input line 42.
-
-
-
 [14]
-
-LaTeX Warning: Citation `lewis2020rag' on page 15 undefined on input line 56.
-
-
-LaTeX Warning: Citation `shinn2023reflexion' on page 15 undefined on input line 56.
-
-
-LaTeX Warning: Citation `wu2024agenttuning' on page 15 undefined on input line 56.
-
-
 
 [15])
 
@@ -656,27 +551,6 @@ LaTeX Warning: Citation `wu2024agenttuning' on page 15 undefined on input line 5
  (ltr_survey_section.tex
 Chapter 2.
 
-LaTeX Warning: Citation `locascio2016neural' on page 17 undefined on input line 12.
-
-
-LaTeX Warning: Citation `li2020transregex' on page 17 undefined on input line 12.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 17 undefined on input line 12.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 17 undefined on input line 16.
-
-
-LaTeX Warning: Citation `autogpt2023' on page 17 undefined on input line 20.
-
-
-LaTeX Warning: Citation `reflexion2023' on page 17 undefined on input line 20.
-
-
-LaTeX Warning: Citation `react2022' on page 17 undefined on input line 20.
-
-
 
 [17
 
@@ -685,164 +559,20 @@ LaTeX Warning: Citation `react2022' on page 17 undefined on input line 20.
 
 ]
 
-LaTeX Warning: Citation `ferrag2025can' on page 18 undefined on input line 24.
-
-
-LaTeX Warning: Citation `multiagent2024' on page 18 undefined on input line 28.
-
-
-LaTeX Warning: Citation `autoteams2023' on page 18 undefined on input line 28.
-
-
-LaTeX Warning: Citation `collective2025' on page 18 undefined on input line 28.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 18 undefined on input line 33.
-
-
-
 [18]
-
-LaTeX Warning: Citation `locascio2016neural' on page 19 undefined on input line 45.
-
-
-LaTeX Warning: Citation `li2020transregex' on page 19 undefined on input line 45.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 19 undefined on input line 49.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 19 undefined on input line 53.
-
-
 
 [19]
 
-LaTeX Warning: Citation `lewis2020retrieval' on page 20 undefined on input line 61.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 20 undefined on input line 61.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 20 undefined on input line 65.
-
-
-
 [20]
 
-LaTeX Warning: Citation `react2022' on page 21 undefined on input line 73.
-
-
-LaTeX Warning: Citation `reflexion2023' on page 21 undefined on input line 73.
-
-
-LaTeX Warning: Citation `autogpt2023' on page 21 undefined on input line 73.
-
-
-LaTeX Warning: Citation `wu2025agents' on page 21 undefined on input line 73.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 21 undefined on input line 73.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 21 undefined on input line 73.
-
-
-LaTeX Warning: Citation `zeng2024agenttuning' on page 21 undefined on input line 77.
-
-
-LaTeX Warning: Citation `kang2024researcharena' on page 21 undefined on input line 77.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 21 undefined on input line 81.
-
-
-LaTeX Warning: Citation `ravuru2024agent' on page 21 undefined on input line 85.
-
-
-LaTeX Warning: Citation `kang2024researcharena' on page 21 undefined on input line 85.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 21 undefined on input line 85.
-
-
-
 [21]
-
-LaTeX Warning: Citation `zeng2024agenttuning' on page 22 undefined on input line 89.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 22 undefined on input line 93.
-
-
 Overfull \hbox (1.4871pt too wide) in paragraph at lines 93--94
 []\OT1/cmr/m/n/12 Moreover, multi-agent en-vi-ron-ments|where domain-specialized agents col-lab-o-ra-tively
  []
 
 
-LaTeX Warning: Citation `weiss2013multiagent' on page 22 undefined on input line 98.
-
-
-LaTeX Warning: Citation `wooldridge2009introduction' on page 22 undefined on input line 98.
-
-
-LaTeX Warning: Citation `stone2000multiagent' on page 22 undefined on input line 98.
-
-
 
 [22]
-
-LaTeX Warning: Citation `lowe2017multi' on page 23 undefined on input line 104.
-
-
-LaTeX Warning: Citation `todorov2012optimal' on page 23 undefined on input line 104.
-
-
-LaTeX Warning: Citation `finn2017model' on page 23 undefined on input line 104.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 23 undefined on input line 108.
-
-
-LaTeX Warning: Citation `doshi-velez2017towards' on page 23 undefined on input line 112.
-
-
-LaTeX Warning: Citation `barocas2019fairness' on page 23 undefined on input line 112.
-
-
-LaTeX Warning: Citation `rudin2019stop' on page 23 undefined on input line 112.
-
-
-LaTeX Warning: Citation `sutton2018reinforcement' on page 23 undefined on input line 112.
-
-
-LaTeX Warning: Citation `huang2021efficient' on page 23 undefined on input line 112.
-
-
-LaTeX Warning: Citation `perez2021modular' on page 23 undefined on input line 116.
-
-
-LaTeX Warning: Citation `muller2023taxonomy' on page 23 undefined on input line 116.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 23 undefined on input line 116.
-
-
-LaTeX Warning: Citation `dosovitskiy2020standardized' on page 23 undefined on input line 116.
-
-
-LaTeX Warning: Citation `bosselut2021comet' on page 23 undefined on input line 116.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 23 undefined on input line 120.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 23 undefined on input line 120.
-
-
-LaTeX Warning: Citation `muller2023taxonomy' on page 23 undefined on input line 120.
-
-
 
 [23])
 
@@ -851,31 +581,7 @@ LaTeX Warning: Citation `muller2023taxonomy' on page 23 undefined on input line 
 
  (methodology_section.tex
 Chapter 3.
-
-LaTeX Warning: Citation `lewis2020rag' on page 25 undefined on input line 9.
-
-
-LaTeX Warning: Citation `zhang2024survey' on page 25 undefined on input line 9.
-
-
-LaTeX Warning: Citation `ft2024agents' on page 25 undefined on input line 9.
-
-
-LaTeX Warning: Citation `chen2024ext2gen' on page 25 undefined on input line 9.
-
-
-LaTeX Warning: Citation `kabir2024hybridrag' on page 25 undefined on input line 9.
-
-
-LaTeX Warning: Citation `ft2024agents' on page 25 undefined on input line 9.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 25 undefined on input line 17.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 25 undefined on input line 19.
-
-<images/fig_1.jpg, id=522, 963.6pt x 761.09344pt>
+<images/fig_1.jpg, id=665, 963.6pt x 761.09344pt>
 File: images/fig_1.jpg Graphic file (type jpg)
 <use images/fig_1.jpg>
 Package pdftex.def Info: images/fig_1.jpg  used on input line 24.
@@ -883,22 +589,13 @@ Package pdftex.def Info: images/fig_1.jpg  used on input line 24.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/fig_2.png, id=523, 543.53062pt x 140.77594pt>
+<images/fig_2.png, id=666, 543.53062pt x 140.77594pt>
 File: images/fig_2.png Graphic file (type png)
 <use images/fig_2.png>
 Package pdftex.def Info: images/fig_2.png  used on input line 34.
 (pdftex.def)             Requested size: 407.66833pt x 105.5924pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 25 undefined on input line 45.
-
-
-LaTeX Warning: Citation `kabir2024hybridrag' on page 25 undefined on input line 45.
-
-
-LaTeX Warning: Citation `chen2024ext2gen' on page 25 undefined on input line 45.
 
 
 
@@ -914,30 +611,19 @@ LaTeX Warning: Text page 26 contains only floats.
 
 
 [26 <./images/fig_1.jpg> <./images/fig_2.png>]
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 27 undefined on input line 51.
-
-<images/fig_3.png, id=536, 687.31781pt x 339.51843pt>
+<images/fig_3.png, id=687, 687.31781pt x 339.51843pt>
 File: images/fig_3.png Graphic file (type png)
 <use images/fig_3.png>
 Package pdftex.def Info: images/fig_3.png  used on input line 55.
 (pdftex.def)             Requested size: 385.02547pt x 190.19118pt.
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `gao2024retrievalaugmented' on page 27 undefined on input line 79.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 27 undefined on input line 79.
-
-
-LaTeX Warning: Citation `karpukhin2020dense' on page 27 undefined on input line 79.
 
 
 
 [27]
-<images/fig_4.png, id=542, 530.73282pt x 402.00188pt>
+<images/fig_4.png, id=696, 530.73282pt x 402.00188pt>
 File: images/fig_4.png Graphic file (type png)
 <use images/fig_4.png>
 Package pdftex.def Info: images/fig_4.png  used on input line 83.
@@ -946,21 +632,7 @@ Package pdftex.def Info: images/fig_4.png  used on input line 83.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Citation `gao2024retrievalaugmented' on page 28 undefined on input line 94.
-
-
-LaTeX Warning: Citation `lewis2020retrieval' on page 28 undefined on input line 94.
-
-
-LaTeX Warning: Citation `shi2023replug' on page 28 undefined on input line 94.
-
-
-Overfull \hbox (16.32454pt too wide) in paragraph at lines 94--95
-\OT1/cmr/m/n/12 Modular RAG[[]] rep-re-sents a sig-nif-i-cant ad-vance-ment in the evo-lu-tion of retrieval-augmented
- []
-
-<images/fig_5.png, id=544, 1130.72438pt x 1045.65656pt>
+<images/fig_5.png, id=701, 1130.72438pt x 1045.65656pt>
 File: images/fig_5.png Graphic file (type png)
 <use images/fig_5.png>
 Package pdftex.def Info: images/fig_5.png  used on input line 98.
@@ -972,15 +644,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [28 <./images/fig_3.png>]
 
-LaTeX Warning: Citation `karpukhin2020dense' on page 29 undefined on input line 109.
-
-
-
 [29 <./images/fig_4.png>]
-
-LaTeX Warning: Citation `yao2023graphrag' on page 30 undefined on input line 120.
-
-<images/fig_6.png, id=556, 402.00188pt x 308.65312pt>
+<images/fig_6.png, id=718, 402.00188pt x 308.65312pt>
 File: images/fig_6.png Graphic file (type png)
 <use images/fig_6.png>
 Package pdftex.def Info: images/fig_6.png  used on input line 124.
@@ -990,20 +655,12 @@ Package pdftex.def Info: images/fig_6.png  used on input line 124.
 [30 <./images/fig_5.png>]
 
 [31 <./images/fig_6.png>]
-
-LaTeX Warning: Citation `yao2023graphrag' on page 32 undefined on input line 147.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 32 undefined on input line 151.
-
-
-LaTeX Warning: Citation `ferrag2025can' on page 32 undefined on input line 167.
-
-<images/fig_7.png, id=568, 671.50874pt x 514.17094pt>
+<images/fig_7.png, id=734, 671.50874pt x 514.17094pt>
 File: images/fig_7.png Graphic file (type png)
 <use images/fig_7.png>
 Package pdftex.def Info: images/fig_7.png  used on input line 171.
 (pdftex.def)             Requested size: 407.66833pt x 312.14531pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1011,104 +668,20 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [32]
 
-LaTeX Warning: Citation `ferrag2025can' on page 33 undefined on input line 184.
-
-
-LaTeX Warning: Citation `aws2024reflex' on page 33 undefined on input line 188.
-
-
-
 [33 <./images/fig_7.png>]
-
-LaTeX Warning: Citation `russell2010aima' on page 34 undefined on input line 193.
-
-
-LaTeX Warning: Citation `aws2024goalagents' on page 34 undefined on input line 198.
-
-
-LaTeX Warning: Citation `aws2024utilityagents' on page 34 undefined on input line 203.
-
-
 
 [34]
 
-LaTeX Warning: Citation `aws2024learningagents' on page 35 undefined on input line 208.
-
-
-LaTeX Warning: Citation `aws2024hierarchicalagents' on page 35 undefined on input line 213.
-
-
-
 [35]
 
-LaTeX Warning: Citation `AWS2024' on page 36 undefined on input line 227.
-
-
-LaTeX Warning: Citation `IBM2024' on page 36 undefined on input line 232.
-
-
-LaTeX Warning: Citation `russell2010aima' on page 36 undefined on input line 237.
-
-
-LaTeX Warning: Citation `AWS2024' on page 36 undefined on input line 237.
-
-
-LaTeX Warning: Citation `IBM2024' on page 36 undefined on input line 237.
-
-
-LaTeX Warning: Citation `johnson2019billion' on page 36 undefined on input line 243.
-
-
-LaTeX Warning: Citation `openai2023gpt4' on page 36 undefined on input line 246.
-
-
-LaTeX Warning: Citation `mistral2023' on page 36 undefined on input line 246.
-
-
-LaTeX Warning: Citation `google2024gemini' on page 36 undefined on input line 246.
-
-
-
 [36]
-
-LaTeX Warning: Citation `langgraph2024' on page 37 undefined on input line 249.
-
-
-LaTeX Warning: Citation `chen2023toolformer' on page 37 undefined on input line 249.
-
-
 Overfull \hbox (3.77597pt too wide) in paragraph at lines 252--253
 \OT1/cmr/m/n/12 The eval-u-a-tion cor-pus con-sists of a syn-thetic dataset com-pris-ing over 500 pattern-matching
  []
 
 
-LaTeX Warning: Citation `Lewis2020RetrievalAugmentedGeneration' on page 37 undefined on input line 258.
-
-
-LaTeX Warning: Citation `Karpukhin2020DensePassageRetrieval' on page 37 undefined on input line 258.
-
-
-LaTeX Warning: Citation `Roberts2020BARTDenoising' on page 37 undefined on input line 258.
-
-
-LaTeX Warning: Citation `Lewis2020RetrievalAugmentedGeneration' on page 37 undefined on input line 261.
-
-
-LaTeX Warning: Citation `Karpukhin2020DensePassageRetrieval' on page 37 undefined on input line 264.
-
-
-LaTeX Warning: Citation `Lewis2020RetrievalAugmentedGeneration' on page 37 undefined on input line 267.
-
-
 
 [37]
-
-LaTeX Warning: Citation `Jia2017AdversarialExamples' on page 38 undefined on input line 270.
-
-
-LaTeX Warning: Citation `Lewis2020RetrievalAugmentedGeneration' on page 38 undefined on input line 273.
-
-
 Overfull \hbox (7.12735pt too wide) in paragraph at lines 275--276
 []\OT1/cmr/m/n/12 Experiments com-pare the sys-tem against base-line regex-only and LLM-only ap-proaches.
  []
@@ -1120,16 +693,13 @@ Overfull \hbox (7.12735pt too wide) in paragraph at lines 275--276
 
  (implementation_section.tex
 Chapter 4.
-<images/NX_Diagram.drawio.png, id=600, 545.03625pt x 703.62875pt>
+<images/NX_Diagram.drawio.png, id=809, 545.03625pt x 703.62875pt>
 File: images/NX_Diagram.drawio.png Graphic file (type png)
 <use images/NX_Diagram.drawio.png>
 Package pdftex.def Info: images/NX_Diagram.drawio.png  used on input line 18.
 (pdftex.def)             Requested size: 430.31812pt x 555.52779pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `langgraph2024agentai' on page 39 undefined on input line 26.
 
 
 
@@ -1217,22 +787,25 @@ Overfull \hbox (4.91624pt too wide) in paragraph at lines 49--50
 
 [52] (thesis.bbl
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-
 [53
 
 
 
-] (thesis.aux (frontPage_section.aux) (certificate_section.aux) (crt_approval_section.aux) (declaration_section.aux) (acknowledgement_section.aux) (abstract_section.aux) (introduction_section.aux) (ltr_survey_section.aux) (methodology_section.aux) (implementation_section.aux) (rst_analysis_section.aux) (clg_ltd_section.aux) (con_fture_section.aux))
+]
+
+[54]
+
+[55]
+
+[56]
+
+[57])
+
+[58] (thesis.aux (frontPage_section.aux) (certificate_section.aux) (crt_approval_section.aux) (declaration_section.aux) (acknowledgement_section.aux) (abstract_section.aux) (introduction_section.aux) (ltr_survey_section.aux) (methodology_section.aux) (implementation_section.aux) (rst_analysis_section.aux) (clg_ltd_section.aux) (con_fture_section.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1241,17 +814,17 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 933F48CCD775FAC438B5167488408CAE;10003.
  ) 
 Here is how much of TeX's memory you used:
- 12921 strings out of 469941
- 209773 string characters out of 5469430
- 613843 words of memory out of 5000000
- 39348 multiletter control sequences out of 15000+600000
- 633649 words of font info for 63 fonts, out of 8000000 for 9000
+ 13080 strings out of 469941
+ 212890 string characters out of 5469430
+ 616791 words of memory out of 5000000
+ 39427 multiletter control sequences out of 15000+600000
+ 633818 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1587b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\nayan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (53 pages, 1187754 bytes).
+ 75i,10n,79p,1587b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\nayan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/nayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (58 pages, 1259140 bytes).
 PDF statistics:
- 728 PDF objects out of 1000 (max. 8388607)
- 141 named destinations out of 1000 (max. 500000)
+ 1004 PDF objects out of 1200 (max. 8388607)
+ 220 named destinations out of 1000 (max. 500000)
  577 words of extra memory for PDF output out of 10000 (max. 10000000)
 

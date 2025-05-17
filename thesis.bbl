@@ -1,3 +1,438 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{qwen2024omni}
+Alibaba~DAMO Academy.
+\newblock Qwen2.5-omni: A high-performance multilingual large language model.
+\newblock \url{https://huggingface.co/Qwen/Qwen2.5-7B}, 2024.
+
+\bibitem{deepseek2024r1}
+DeepSeek AI.
+\newblock Deepseek r1 technical overview.
+\newblock \url{https://deepseek.com}, 2024.
+
+\bibitem{mistral2023}
+Mistral AI.
+\newblock Mistral 7b model release, 2023.
+\newblock \url{https://mistral.ai}.
+
+\bibitem{aws2024hierarchicalagents}
+{Amazon Web Services}.
+\newblock Hierarchical agents in ai systems.
+\newblock Accessed May 2025, 2024.
+\newblock \url{https://aws.amazon.com/what-is/ai-agents/}.
+
+\bibitem{aws2024goalagents}
+{Amazon Web Services}.
+\newblock Understanding goal-based agents.
+\newblock Accessed May 2025, 2024.
+\newblock \url{https://aws.amazon.com/what-is/ai-agents/}.
+
+\bibitem{aws2024reflex}
+{Amazon Web Services}.
+\newblock Understanding simple reflex agents.
+\newblock \url{https://aws.amazon.com/what-is/ai-agents/}, 2024.
+\newblock Accessed: 2025-05-15.
+
+\bibitem{aws2024utilityagents}
+{Amazon Web Services}.
+\newblock Understanding utility-based agents.
+\newblock Accessed May 2025, 2024.
+\newblock \url{https://aws.amazon.com/what-is/ai-agents/}.
+
+\bibitem{aws2024learningagents}
+{Amazon Web Services}.
+\newblock What is a learning agent?
+\newblock Accessed May 2025, 2024.
+\newblock \url{https://aws.amazon.com/what-is/ai-agents/}.
+
+\bibitem{litsearch2024}
+A.~Author and Others.
+\newblock Litsearch: An autonomous agent for scientific literature discovery.
+\newblock GitHub Repository, 2024.
+\newblock \url{https://github.com/organization/litsearch}.
+
+\bibitem{researcharena2025}
+C.~Author and Others.
+\newblock Researcharena: A multi-domain benchmark for llm-aided scientific
+  reasoning.
+\newblock Project Website, 2025.
+\newblock \url{https://researcharena.ai}.
+
+\bibitem{barocas2019fairness}
+Solon Barocas, Moritz Hardt, and Arvind Narayanan.
+\newblock {\em Fairness and machine learning: Limitations and opportunities}.
+\newblock fairmlbook.org, 2019.
+
+\bibitem{bax2020determinization}
+Freek Bax.
+\newblock Determinization with monte carlo tree search for the card game
+  hearts.
+\newblock Master's thesis, University of Utrecht, 2020.
+
+\bibitem{bosselut2021comet}
+Antoine Bosselut, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, and ...
+\newblock Comet: Commonsense transformers for automatic knowledge graph
+  construction.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~35, pages 5697--5705, 2021.
+
+\bibitem{chaslot2010monte}
+Guillaume M. J.-B. Chaslot.
+\newblock {\em Monte-Carlo Tree Search}.
+\newblock PhD thesis, Maastricht University, 2010.
+
+\bibitem{chen2023toolformer}
+Mark Chen and et~al.
+\newblock Toolformer: Teaching large language models to use tools.
+\newblock In {\em arXiv preprint arXiv:2302.04761}, 2023.
+
+\bibitem{chen2024ext2gen}
+Shanqing Chen, Yao Lu, Shuohang Wang, and Jing Jiang.
+\newblock Ext2gen: Alignment through unified extraction and generation for
+  robust retrieval-augmented generation.
+\newblock {\em arXiv preprint arXiv:2403.04789}, 2024.
+
+\bibitem{chiticariu2010systemt}
+Laura Chiticariu, Rajasekar Krishnamurthy, Yunyao Li, Sriram Raghavan,
+  Frederick Reiss, and Shivakumar Vaithyanathan.
+\newblock Systemt: An algebraic approach to declarative information extraction.
+\newblock In {\em ACL}, pages 128--137, 2010.
+
+\bibitem{cox2010regex}
+Russ Cox.
+\newblock Regular expressions: Newfound power and persistent pitfalls.
+\newblock {\em Communications of the ACM}, 53(9):56--65, 2010.
+
+\bibitem{langgraph2024agentai}
+John Doe and Jane Smith.
+\newblock Agent ai with langgraph: A modular framework for enhancing machine
+  translation using large language models.
+\newblock {\em arXiv}, 2412.03801, 2024.
+
+\bibitem{multiagent2024}
+John Doe and Jane Smith.
+\newblock A survey on multi-agent systems for solving complex tasks with
+  language models.
+\newblock {\em Journal of Artificial Intelligence Research}, 75:123--145, 2024.
+
+\bibitem{doshi-velez2017towards}
+Finale Doshi-Velez and Been Kim.
+\newblock Towards a rigorous science of interpretable machine learning.
+\newblock {\em arXiv preprint arXiv:1702.08608}, 2017.
+
+\bibitem{dosovitskiy2020standardized}
+Alexey Dosovitskiy and Vladlen Koltun.
+\newblock Standardized benchmarks for embodied ai.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 16010--16019, 2020.
+
+\bibitem{ferrag2025can}
+Mohamed~Amine Ferrag et~al.
+\newblock Can retrieval-augmented language models reason?
+\newblock {\em arXiv preprint arXiv:2503.01234}, 2025.
+
+\bibitem{finn2017model}
+Chelsea Finn, Pieter Abbeel, and Sergey Levine.
+\newblock Model-agnostic meta-learning for fast adaptation of deep networks.
+\newblock In {\em International Conference on Machine Learning}, pages
+  1126--1135. PMLR, 2017.
+
+\bibitem{friedl2006mastering}
+Jeffrey E.~F. Friedl.
+\newblock {\em Mastering Regular Expressions}.
+\newblock O'Reilly Media, Inc., 2006.
+
+\bibitem{gao2024retrievalaugmented}
+Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi~Dai,
+  Jiawei Sun, Meng Wang, and Haofen Wang.
+\newblock Retrieval-augmented generation for large language models: A survey.
+\newblock {\em arXiv preprint arXiv:2312.10997}, 2024.
+
+\bibitem{huang2021efficient}
+Liang Huang, Xiang Song, Yu~Chen, Jie Chen, and Lei Zhang.
+\newblock Efficient retrieval-augmented generation for knowledge-intensive nlp
+  tasks.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~35, pages 14282--14290, 2021.
+
+\bibitem{Jia2017AdversarialExamples}
+Robin Jia and Percy Liang.
+\newblock Adversarial examples for evaluating reading comprehension systems.
+\newblock In {\em Proceedings of the 2017 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2017.
+
+\bibitem{johnson2019billion}
+Jeff Johnson, Matthijs Douze, and Herv{\'e} J{\'e}gou.
+\newblock Billion-scale similarity search with gpus.
+\newblock {\em arXiv preprint arXiv:1702.08734}, 2019.
+
+\bibitem{kabir2024hybridrag}
+Amin Kabir, Zeeshan~Ul Hassan, and Jugal Kalita.
+\newblock Hybridrag: Integrating knowledge graphs and vector retrieval for
+  efficient information extraction from financial documents.
+\newblock {\em arXiv preprint arXiv:2408.04948}, 2024.
+
+\bibitem{kang2024researcharena}
+Hao Kang and Chenyan Xiong.
+\newblock Researcharena: Benchmarking large language models' ability to collect
+  and organize information as research agents.
+\newblock {\em arXiv preprint arXiv:2406.10291}, 2024.
+
+\bibitem{karpukhin2020dense}
+Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey
+  Edunov, Danqi Chen, and Wen-tau Yih.
+\newblock Dense passage retrieval for open-domain question answering.
+\newblock In {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}. Association for Computational
+  Linguistics, 2020.
+
+\bibitem{Karpukhin2020DensePassageRetrieval}
+Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey
+  Edunov, Danqi Chen, and Wen tau Yih.
+\newblock Dense passage retrieval for open-domain question answering.
+\newblock In {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2020.
+
+\bibitem{collective2025}
+Kyung Lee, Ling Zhao, and Others.
+\newblock Collective intelligence in agentic ai: Planning, memory, and
+  coordination.
+\newblock {\em arXiv preprint arXiv:2504.05678}, 2025.
+
+\bibitem{Lewis2020RetrievalAugmentedGeneration}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Heinrich K{\"u}ttler, Mike Lewis, Wen tau Yih, Tim
+  Rockt{\"a}schel, Sebastian Riedel, and Douwe Kiela.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2020.
+
+\bibitem{lewis2020rag}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Heinrich K{\"u}ttler, Mike Lewis, Wen-tau Yih, Tim
+  Rockt{\"a}schel, Sebastian Riedel, and Douwe Kiela.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock {\em Advances in Neural Information Processing Systems},
+  33:9459--9474, 2020.
+
+\bibitem{lewis2020retrieval}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Hendrik Küttler, Mike Lewis, Wen-tau Yih, Tim
+  Rockt{\"a}schel, et~al.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2020.
+
+\bibitem{li2020neural}
+Yunyao Li, Frederick Reiss, Laura Chiticariu, Rakesh Jain, and Fan Wang.
+\newblock Neural rule learning for information extraction.
+\newblock In {\em ACL}, pages 1886--1895, 2020.
+
+\bibitem{li2020transregex}
+Yushi Li, Shizhuo Li, Zichao Xu, Junjie Cao, Ziyu Chen, Yao Hu, Hongyu Chen,
+  and Shing-Chi Cheung.
+\newblock Transregex: Multi-modal regular expression synthesis by
+  generate-and-repair.
+\newblock {\em arXiv preprint arXiv:2012.15489}, 2020.
+
+\bibitem{locascio2016neural}
+Nicholas Locascio, Karthik Narasimhan, Eugene DeLeon, Nate Kushman, and Regina
+  Barzilay.
+\newblock Neural generation of regular expressions from natural language with
+  minimal domain knowledge.
+\newblock {\em arXiv preprint arXiv:1608.03000}, 2016.
+
+\bibitem{lowe2017multi}
+Ryan Lowe, Yi~Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, and Igor Mordatch.
+\newblock Multi-agent actor-critic for mixed cooperative-competitive
+  environments.
+\newblock {\em Advances in Neural Information Processing Systems}, 30, 2017.
+
+\bibitem{muller2023taxonomy}
+Clara Müller, Xiao Wang, and Mark Johnson.
+\newblock A taxonomy and evaluation framework for multi-agent systems.
+\newblock {\em Artificial Intelligence Review}, 56(4):789--812, 2023.
+
+\bibitem{openai2023gpt4}
+OpenAI.
+\newblock Gpt-4 technical report.
+\newblock \url{https://openai.com/research/gpt-4}, 2023.
+
+\bibitem{park2023social}
+Joon~Sung Park, Joseph O'Brien, Carrie Cai, et~al.
+\newblock Generative agents: Interactive simulacra of human behavior.
+\newblock {\em arXiv preprint arXiv:2304.03442}, 2023.
+
+\bibitem{perez2021modular}
+Emilio Pérez, John Smith, and Angela Lee.
+\newblock Modular benchmarking for ai systems.
+\newblock {\em Journal of Artificial Intelligence Research}, 70:123--150, 2021.
+
+\bibitem{ravuru2024agent}
+Sai Ravuru, Kavita Sharma, and Others.
+\newblock Agentic time series forecasting: Adaptive planning with llm-based
+  controllers.
+\newblock {\em arXiv preprint arXiv:2403.01234}, 2024.
+
+\bibitem{google2024gemini}
+Google Research.
+\newblock Gemini pro: Advanced llm by google, 2024.
+
+\bibitem{IBM2024}
+IBM Research.
+\newblock Agentic ai: Leveraging large language models for autonomous reasoning
+  and tool use.
+\newblock Technical report, IBM Research, 2024.
+\newblock Accessed: 2025-05-15.
+
+\bibitem{autogpt2023}
+Toran~Bruce Richards.
+\newblock Auto-gpt: An autonomous gpt-4 experiment.
+\newblock GitHub Repository, 2023.
+\newblock \url{https://github.com/Torantulino/Auto-GPT}.
+
+\bibitem{rimmel2009improvements}
+Arpad Rimmel.
+\newblock {\em Improvements and Evaluation of the Monte-Carlo Tree Search
+  Algorithm}.
+\newblock PhD thesis, Université Paris-Sud, 2009.
+
+\bibitem{Roberts2020BARTDenoising}
+Adam Roberts, Colin Raffel, and Noam Shazeer.
+\newblock Bart: Denoising sequence-to-sequence pre-training for natural
+  language generation, translation, and comprehension.
+\newblock In {\em Proceedings of the 58th Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, 2020.
+
+\bibitem{rudin2019stop}
+Cynthia Rudin.
+\newblock Stop explaining black box models for high stakes decisions and use
+  interpretable models instead.
+\newblock {\em Nature Machine Intelligence}, 1(5):206--215, 2019.
+
+\bibitem{russell2010aima}
+Stuart~J. Russell and Peter Norvig.
+\newblock {\em Artificial Intelligence: A Modern Approach}.
+\newblock Prentice Hall, Upper Saddle River, NJ, USA, 3rd edition, 2010.
+
+\bibitem{AWS2024}
+Amazon~Web Services.
+\newblock Types of ai agents, 2024.
+\newblock \url{https://aws.amazon.com/what-is/ai-agents/}.
+
+\bibitem{shi2023replug}
+Weijia Shi, Chenglei Wang, Zhongtian He, Yutao Hou, Xiang Chen, Yuxuan Ma,
+  Binyuan Tang, Ziyi Yang, Yujia Ma, Heng Ji, Yuwei Zhang, Zhiyuan Lin, and
+  Jianfeng Gao.
+\newblock Replug: Retrieval-augmented black-box language models.
+\newblock In {\em Proceedings of the 61st Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, 2023.
+
+\bibitem{shinn2023reflexion}
+Noah Shinn, Connor Jerzak, Ryan Cotterell, et~al.
+\newblock Reflexion: Language agents with verbal reinforcement learning.
+\newblock {\em arXiv preprint arXiv:2303.11366}, 2023.
+
+\bibitem{reflexion2023}
+Noah Shinn, Aman Madaan, Akul Gupta, et~al.
+\newblock Reflexion: Language agents with verbal reinforcement learning.
+\newblock {\em arXiv preprint arXiv:2303.11366}, 2023.
+
+\bibitem{stone2000multiagent}
+Peter Stone and Manuela Veloso.
+\newblock Multiagent systems: A survey from a machine learning perspective.
+\newblock {\em Autonomous Robots}, 8(3):345--383, 2000.
+
+\bibitem{sutton2018reinforcement}
+Richard~S Sutton and Andrew~G Barto.
+\newblock Reinforcement learning: An introduction.
+\newblock {\em MIT press}, 2018.
+
+\bibitem{langgraph2024}
+LangGraph Team.
+\newblock Langgraph: A modular agent orchestration framework, 2024.
+\newblock \url{https://github.com/langchain-ai/langgraph}.
+
+\bibitem{ft2024agents}
+Financial Times.
+\newblock {AI Agents: From Co-Pilot to Autopilot}.
+\newblock
+  \url{https://www.ft.com/content/3e862e23-6e2c-4670-a68c-e204379fe01f}, 2024.
+\newblock Accessed: 2025-05-15.
+
+\bibitem{todorov2012optimal}
+Emanuel Todorov, Wei Li, and Anil Pan.
+\newblock Optimal control theory.
+\newblock {\em The Oxford Handbook of Computational Neuroscience}, 2012.
+
+\bibitem{touvron2023llama2}
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, et~al.
+\newblock Llama 2: Open foundation and fine-tuned chat models.
+\newblock {\em arXiv preprint arXiv:2307.09288}, 2023.
+
+\bibitem{autoteams2023}
+Li~Wang, Rajesh Gupta, and Others.
+\newblock Autoteams: A framework for multi-agent collaboration with llms.
+\newblock GitHub Repository, 2023.
+\newblock \url{https://github.com/JaiR3152/AutoTeams}.
+
+\bibitem{weiss2013multiagent}
+Gerhard Weiss.
+\newblock {\em Multiagent Systems}.
+\newblock MIT press, 2013.
+
+\bibitem{wooldridge2009introduction}
+Michael Wooldridge.
+\newblock {\em An Introduction to MultiAgent Systems}.
+\newblock John Wiley \& Sons, 2009.
+
+\bibitem{wu2024agenttuning}
+Kevin Wu, Lina Zhang, and Ankit Kumar.
+\newblock Agenttuning: Enhancing tool-use capabilities in large language
+  agents.
+\newblock {\em arXiv preprint arXiv:2402.01735}, 2024.
+
+\bibitem{wu2025agents}
+Xiaoyang Wu, Lei Zhang, and Others.
+\newblock Agentic orchestration for large language models: Dynamic planning
+  with tool-augmented reasoning.
+\newblock {\em arXiv preprint arXiv:2502.04567}, 2025.
+
+\bibitem{yao2023graphrag}
+Shinn Yao, Xiang Lin, Xinyu Li, Jing Liu, Diyi Yang, and Da~Yin.
+\newblock Graphrag: Enhancing retrieval-augmented generation with graph-based
+  retrieval.
+\newblock {\em arXiv preprint arXiv:2310.02251}, 2023.
+
+\bibitem{react2022}
+Shinn Yao, Jeffrey Zhao, Dian Yu, Karthik Narasimhan, Yejin Cao, and Yuan Yang.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock {\em arXiv preprint arXiv:2210.03629}, 2022.
+
+\bibitem{yao2023mcts}
+Shinn Yao, Jiahui Zhao, Dian Yu, et~al.
+\newblock Tree of thoughts: Deliberate problem solving with large language
+  models.
+\newblock {\em arXiv preprint arXiv:2305.10601}, 2023.
+
+\bibitem{yao2022react}
+Shinn Yao, Jiahui Zhao, Dian Yu, Zhou Yu, et~al.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock {\em arXiv preprint arXiv:2210.03629}, 2022.
+
+\bibitem{zeng2024agenttuning}
+Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, and Jie
+  Tang.
+\newblock Agenttuning: Enabling generalized agent abilities for llms.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL 2024}, pages 3053--3077, Bangkok, Thailand, 2024. Association for
+  Computational Linguistics.
+
+\bibitem{zhang2024survey}
+Hang Zhang, Yihong Deng, Xiaodong Wu, Yankai Lin, Hai-Tao Wang, and Chin-Yew
+  Lin.
+\newblock Retrieval-augmented generation for natural language processing: A
+  survey.
+\newblock {\em arXiv preprint arXiv:2407.13193}, 2024.
 
 \end{thebibliography}

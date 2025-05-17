@@ -31,119 +31,44 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
-Warning--I didn't find a database entry for "friedl2006mastering"
-Warning--I didn't find a database entry for "chiticariu2010systemt"
-Warning--I didn't find a database entry for "cox2010regex"
-Warning--I didn't find a database entry for "locascio2016neural"
-Warning--I didn't find a database entry for "li2020neural"
-Warning--I didn't find a database entry for "lewis2020retrieval"
-Warning--I didn't find a database entry for "yao2022react"
-Warning--I didn't find a database entry for "shinn2023reflexion"
-Warning--I didn't find a database entry for "ferrag2025can"
-Warning--I didn't find a database entry for "wu2024agenttuning"
-Warning--I didn't find a database entry for "openai2023gpt4"
-Warning--I didn't find a database entry for "qwen2024omni"
-Warning--I didn't find a database entry for "deepseek2024r1"
-Warning--I didn't find a database entry for "touvron2023llama2"
-Warning--I didn't find a database entry for "litsearch2024"
-Warning--I didn't find a database entry for "researcharena2025"
-Warning--I didn't find a database entry for "chaslot2010monte"
-Warning--I didn't find a database entry for "bax2020determinization"
-Warning--I didn't find a database entry for "rimmel2009improvements"
-Warning--I didn't find a database entry for "yao2023mcts"
-Warning--I didn't find a database entry for "park2023social"
-Warning--I didn't find a database entry for "lewis2020rag"
-Warning--I didn't find a database entry for "li2020transregex"
-Warning--I didn't find a database entry for "autogpt2023"
-Warning--I didn't find a database entry for "reflexion2023"
-Warning--I didn't find a database entry for "react2022"
-Warning--I didn't find a database entry for "multiagent2024"
-Warning--I didn't find a database entry for "autoteams2023"
-Warning--I didn't find a database entry for "collective2025"
-Warning--I didn't find a database entry for "wu2025agents"
-Warning--I didn't find a database entry for "zeng2024agenttuning"
-Warning--I didn't find a database entry for "kang2024researcharena"
-Warning--I didn't find a database entry for "ravuru2024agent"
-Warning--I didn't find a database entry for "weiss2013multiagent"
-Warning--I didn't find a database entry for "wooldridge2009introduction"
-Warning--I didn't find a database entry for "stone2000multiagent"
-Warning--I didn't find a database entry for "lowe2017multi"
-Warning--I didn't find a database entry for "todorov2012optimal"
-Warning--I didn't find a database entry for "finn2017model"
-Warning--I didn't find a database entry for "doshi-velez2017towards"
-Warning--I didn't find a database entry for "barocas2019fairness"
-Warning--I didn't find a database entry for "rudin2019stop"
-Warning--I didn't find a database entry for "sutton2018reinforcement"
-Warning--I didn't find a database entry for "huang2021efficient"
-Warning--I didn't find a database entry for "perez2021modular"
-Warning--I didn't find a database entry for "muller2023taxonomy"
-Warning--I didn't find a database entry for "dosovitskiy2020standardized"
-Warning--I didn't find a database entry for "bosselut2021comet"
-Warning--I didn't find a database entry for "zhang2024survey"
-Warning--I didn't find a database entry for "ft2024agents"
-Warning--I didn't find a database entry for "chen2024ext2gen"
-Warning--I didn't find a database entry for "kabir2024hybridrag"
-Warning--I didn't find a database entry for "gao2024retrievalaugmented"
-Warning--I didn't find a database entry for "karpukhin2020dense"
-Warning--I didn't find a database entry for "shi2023replug"
-Warning--I didn't find a database entry for "yao2023graphrag"
-Warning--I didn't find a database entry for "aws2024reflex"
-Warning--I didn't find a database entry for "russell2010aima"
-Warning--I didn't find a database entry for "aws2024goalagents"
-Warning--I didn't find a database entry for "aws2024utilityagents"
-Warning--I didn't find a database entry for "aws2024learningagents"
-Warning--I didn't find a database entry for "aws2024hierarchicalagents"
-Warning--I didn't find a database entry for "AWS2024"
-Warning--I didn't find a database entry for "IBM2024"
-Warning--I didn't find a database entry for "johnson2019billion"
-Warning--I didn't find a database entry for "mistral2023"
-Warning--I didn't find a database entry for "google2024gemini"
-Warning--I didn't find a database entry for "langgraph2024"
-Warning--I didn't find a database entry for "chen2023toolformer"
-Warning--I didn't find a database entry for "Lewis2020RetrievalAugmentedGeneration"
-Warning--I didn't find a database entry for "Karpukhin2020DensePassageRetrieval"
-Warning--I didn't find a database entry for "Roberts2020BARTDenoising"
-Warning--I didn't find a database entry for "Jia2017AdversarialExamples"
-Warning--I didn't find a database entry for "langgraph2024agentai"
-You've used 0 entries,
+You've used 74 entries,
             2118 wiz_defined-function locations,
-            590 strings with 5682 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            840 strings with 16498 characters,
+and the built_in function-call counts, 23930 in all, are:
+= -- 2227
+> -- 1484
+< -- 9
++ -- 591
+- -- 514
+* -- 1533
+:= -- 4164
+add.period$ -- 235
+call.type$ -- 74
+change.case$ -- 466
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 74
+duplicate$ -- 836
+empty$ -- 1694
+format.name$ -- 514
+if$ -- 4892
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 74
+missing$ -- 58
+newline$ -- 383
+num.names$ -- 148
+pop$ -- 585
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 397
 quote$ -- 0
-skip$ -- 1
+skip$ -- 631
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 836
+swap$ -- 166
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 286
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There were 74 warnings)
+while$ -- 183
+width$ -- 76
+write$ -- 790
